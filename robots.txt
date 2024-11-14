@@ -3,4 +3,4 @@ Disallow: /private/
 Disallow: /temp/
 Allow: /
 
-Sitemap: https://jolanclarksorillo.site/sitemap.xml
+Sitemap: https://nisucicsjolanclarksorillo.site/sitemap.xml
